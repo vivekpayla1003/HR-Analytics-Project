@@ -1,0 +1,16 @@
+age_distribution,gender,count
+18-24,Female,605
+18-24,Male,682
+18-24,Non-Conforming,31
+25-34,Female,2290
+25-34,Male,2478
+25-34,Non-Conforming,135
+35-44,Female,2275
+35-44,Male,2620
+35-44,Non-Conforming,137
+45-54,Female,2264
+45-54,Male,2455
+45-54,Non-Conforming,145
+55-64,Female,656
+55-64,Male,676
+55-64,Non-Conforming,33
